@@ -1,0 +1,27 @@
+# Power-BI-Superstore-Dashboard
+Power BI Superstore Dashboard – Sales, Profit &amp; Customer Insights
+
+
+📊 This project analyzes sales performance using the Superstore dataset.  
+It provides insights into orders, profit, discounts, and customer trends.
+
+## Dashboards Included
+
+1. **Executive Overview** – Total sales, profit %, orders, regional breakdown.  
+2. **Product View** – Performance by category/sub-category with trend charts.  
+3. **Customer View** – Top customers, discount analysis, loyalty insights.  
+4. **Geographic View** – Sales across countries with map visualization.  
+
+## Preview
+[Executive Dashboard] https://github.com/NikithaM03/Power-BI-Superstore-Dashboard/blob/main/Sales%20Dashbaord%20%20-%20Exceutive.png
+
+[Product View] https://github.com/NikithaM03/Power-BI-Superstore-Dashboard#:~:text=product%20View%20%2D%20sales.png
+
+## How to Open
+- Download the `Sales Dashboard.pbix` file from this repo.  
+- Open with **Power BI Desktop** (free).  
+
+## Tools Used
+- Power BI Desktop  
+- Superstore Dataset  
+
